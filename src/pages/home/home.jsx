@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import axios from "axios";
 import { enqueueSnackbar } from "notistack";
 import React, { useEffect, useState } from "react";
